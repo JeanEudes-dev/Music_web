@@ -1,7 +1,7 @@
 ## MUSIC WEB: A Spotify Streaming Experience
 
 This project is a web-based streaming platform built using React that allows users to explore and play music through the Spotify Developer API.
-You can access a preview of the app using this link 
+You can access a preview of the app using this link https://jeaneudes-dev.github.io/Music_web/
 
 **Features:**
 
